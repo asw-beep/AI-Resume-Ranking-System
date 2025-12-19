@@ -58,6 +58,14 @@ This project automates the resume screening process by:
 
 ---
 
+## 🖼️ Project Screenshots (Gradio Interface Flow)
+
+![Gradio 1](assets/1.png)
+![Gradio 2](assets/2.png)
+![Gradio 3](assets/3.png)
+![Gradio 4](assets/4.png)
+![Gradio 5](assets/5.png)
+
 ## 📌 Project Highlights (For Recruiters)
 
 - End-to-end AI pipeline (**data → model → UI**)  
